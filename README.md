@@ -132,4 +132,4 @@ MIT — use it, share it, build on it.
 
 ---
 
-*Built by Anthony Ocasio — [LinkedIn](www.linkedin.com/in/anthony-ocasio-b48113167)*
+*Built by Anthony Ocasio — [LinkedIn](https://www.linkedin.com/in/anthony-ocasio-b48113167)*
